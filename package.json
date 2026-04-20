@@ -1,0 +1,9 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Aplicación Hola Mundo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
